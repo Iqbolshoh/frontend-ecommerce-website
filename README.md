@@ -6,15 +6,21 @@ This project showcases advanced e-commerce design patterns, beautiful product di
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Previews
 
-![ShopNova Preview](./images/preview.png)
+Here is a glimpse of the modern interface and sleek design components:
+
+### 📂 Categories Section
+![Categories Preview](./images/preview.png)
+
+### ⭐ Featured Products
+![Featured Products Preview](./images/preview-2.png)
 
 ---
 
 ## 🎯 Purpose
 
-This project demonstrates the development of a premium e-commerce frontend interface utilizing modern utility-first CSS frameworks and smooth scroll animations to create an attractive digital storefront.
+This project serves as a comprehensive showcase of modern e-commerce frontend architecture. It demonstrates how to seamlessly blend utility-first CSS, dynamic JavaScript DOM manipulation, and scroll-triggered animations to build an attractive, high-converting, and user-centric digital storefront.
 
 ---
 
