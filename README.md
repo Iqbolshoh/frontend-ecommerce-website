@@ -6,6 +6,12 @@ This project showcases advanced e-commerce design patterns, beautiful product di
 
 ---
 
+## 🖼️ Preview
+
+![ShopNova Preview](./images/preview.png)
+
+---
+
 ## 🎯 Purpose
 
 This project demonstrates the development of a premium e-commerce frontend interface utilizing modern utility-first CSS frameworks and smooth scroll animations to create an attractive digital storefront.
